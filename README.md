@@ -1,26 +1,21 @@
-## Welcome to GitHub Pages
+##  Welcome!
 
-You can use the [editor on GitHub](https://github.com/diversitycss/diversitycss/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We aim to advance diversity in the field of Computational Social Science. For now, we're compiling a list of resources. More to come.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Groups
 
-### Resources
+- Black in AI: https://blackinai.github.io/
+- Black Girls Code: http://www.blackgirlscode.com
+- Code Like a Girl: https://codelikeagirl.org
+- Fairness, Accountability, and Transparency in Machine Learning: http://www.fatml.org/
+- Girls Who Code: https://girlswhocode.com
+- Make it GayeR: https://rlgbtq.github.io
+- R Ladies: https://rladies.org
+- Women in Machine Learning: https://wimlworkshop.org
+- Women in Network Science: https://www.networkscienceinstitute.org/wins
+- #rstats community on Twitter: https://twitter.com/search?q=%23rstats&src=tyah
 
-- Andrew Ng s coursera courses
-- Black in AI: https://esube.github.io/
-- CSSnet emaillist google
-- Fairness, Accountability, and Transparency in Machine Learning: https://www.fatml.org/
-- http://www.blackgirlscode.com
-- https://blackinai.github.io/
-- https://codelikeagirl.org
-- https://girlswhocode.com
-- https://rladies.org
-- https://rlgbtq.github.io
-- https://wimlworkshop.org/
-- https://www.icpsr.umich.edu/icpsrweb/sumprog/
-- https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=137797&org=NSF
-- Mellon Mays Fellowship
+### Conferences and Workshops
+- ICPSR Summer Program in Quantitative Methods of Social Research: https://www.icpsr.umich.edu/icpsrweb/sumprog/
+- Women in Machine Learning Workshop: https://wimlworkshop.org
 - rstudio::conf diversity scholarships: https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/
-- Twitter - the #rstats community
-- Women in Machine Learning
-- Women in Network Science
