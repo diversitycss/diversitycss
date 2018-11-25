@@ -35,3 +35,26 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+- Andrew Ng s coursera courses
+- Black in AI: https://esube.github.io/
+- CSSnet emaillist google
+- Fairness, Accountability, and Transparency in Machine Learning: https://www.fatml.org/
+- http://www.blackgirlscode.com
+- https://blackinai.github.io/
+- https://codelikeagirl.org
+- https://girlswhocode.com
+- https://rladies.org
+- https://rlgbtq.github.io
+- https://wimlworkshop.org/
+- https://www.icpsr.umich.edu/icpsrweb/sumprog/
+- https://www.nsf.gov/discoveries/disc_summ.jsp?cntn_id=137797&org=NSF
+- Mellon Mays Fellowship
+- rstudio::conf diversity scholarships: https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/
+- Twitter - the #rstats community
+- Women in Machine Learning
+- Women in Network Science
