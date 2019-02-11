@@ -16,7 +16,7 @@ We aim to advance diversity in the field of Computational Social Science. For no
 - #rstats community on Twitter: [https://twitter.com/search?q=%23rstats&src=tyah](https://twitter.com/search?q=%23rstats&src=tyah)
 
 ### Conferences and Workshops
-- Summer Institute in Computational Social Science [https://compsocialscience.github.io/summer-institute/2019/](https://compsocialscience.github.io/summer-institute/2019/_
+- Summer Institute in Computational Social Science [https://compsocialscience.github.io/summer-institute/2019/](https://compsocialscience.github.io/summer-institute/2019/)
 - ICPSR Summer Program in Quantitative Methods of Social Research: [https://www.icpsr.umich.edu/icpsrweb/sumprog/](https://www.icpsr.umich.edu/icpsrweb/sumprog/)
 - Women in Machine Learning Workshop: [https://wimlworkshop.org](https://wimlworkshop.org)
 - rstudio::conf diversity scholarships: [https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
