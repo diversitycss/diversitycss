@@ -1,6 +1,6 @@
 ##  Welcome!
 
-We aim to advance diversity in the field of Computational Social Science. For now, we're compiling a list of resources. More to come.
+We aim to advance diversity in the field of Computational Social Science. On this pages we're compiling a list of resources (working groups, workshops, etc) that support newcomers and individuals generally underrepresented in CSS.
 
 ### Groups
 
@@ -20,3 +20,6 @@ We aim to advance diversity in the field of Computational Social Science. For no
 - ICPSR Summer Program in Quantitative Methods of Social Research: [https://www.icpsr.umich.edu/icpsrweb/sumprog/](https://www.icpsr.umich.edu/icpsrweb/sumprog/)
 - Women in Machine Learning Workshop: [https://wimlworkshop.org](https://wimlworkshop.org)
 - rstudio::conf diversity scholarships: [https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/)
+
+
+Please feel free to contact us with corrections and suggestions.
