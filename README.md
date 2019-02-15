@@ -1,6 +1,6 @@
 ##  Welcome!
 
-We aim to advance diversity in the field of Computational Social Science. On this pages we're compiling a list of resources (working groups, workshops, etc) that support newcomers and individuals generally underrepresented in CSS.
+We aim to advance diversity in the field of Computational Social Science. On this page we are compiling resources (working groups, workshops, etc) that support newcomers and individuals generally underrepresented in CSS.
 
 ### Groups
 
