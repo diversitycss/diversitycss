@@ -5,3 +5,4 @@ We aim to advance diversity in the field of Computational Social Science. Below 
 #### - [Groups, workshops, and Conferences that support newcomers in CSS](https://varycss.github.io/resources/groups)
 #### - [Database of Speakers to vary CSS Panels and Conferences](https://varycss.github.io/resources/speakers)
 
+If you have any questions or suggestions, feel free to contact us: varycss[at]gmail.com
